@@ -7,25 +7,25 @@ Snap Store is also Incuded :)
 
 Tools/Packages featuring :-
 
-*Gedit
-*Eclipse
-*Hydra 
-*K3B
-*Vlc
-*Code Blocks
-*Kdenlive
-*Knotes
-*Gimp
-*Xpad
-*Leafpad
-*Xterm 
-*Zsh
-*Tcsh
-*Banshee
-*Amarok
-*gscan2pdf
-*Steam
-*Cheese
+* Gedit
+* Eclipse
+* Hydra 
+* K3B
+* Vlc
+* Code Blocks
+* Kdenlive
+* Knotes
+* Gimp
+* Xpad
+* Leafpad
+* Xterm 
+* Zsh
+* Tcsh
+* Banshee
+* Amarok
+* Gscan2pdf
+* Steam
+* Cheese
 
 
 
